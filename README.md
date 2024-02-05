@@ -3,7 +3,7 @@
 This project explores clustering and sampling techniques applied to the MNIST dataset. The goal is to analyze and compare the performance of two clustered sampling methods and a random sampling method. The project uses a variety of metrics, such as loss, accuracy, and the number of clients sampled in each round, to evaluate the effectiveness of the different approaches.
 
 ## Code Structure
-- `main_code.py`: Main script containing the implementation of the clustering and sampling methods.
+- `main_code.py`: Main script containing the implementation of the clustering and sampling methods. Here the `main_code` refers to 
 - `utils.py`: Utility functions used in the main code.
 - `exp1/`: Directory containing experimental data and results.
 
