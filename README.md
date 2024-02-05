@@ -4,7 +4,7 @@ This project explores clustering and sampling techniques applied to the MNIST da
 
 ## Code Structure
 - `main_code.py`: Main script containing the implementation of the clustering and sampling methods. Here the `main_code.py` refers to `clustered-sampling-results-visualization.ipynb`.
-- `utils.py`: Utility functions used in the main code. Here `utils.py` refers to 
+- `utils.py`: Utility functions used in the main code. Here `utils.py` refers to `clustered-sampling-mnist-csv-dataset.ipynb`.
 - `exp1/`: Directory containing experimental data and results.
 
 ## Prerequisites
